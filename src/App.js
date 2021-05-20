@@ -4,6 +4,7 @@ import Header from "./components/header/index.js"
 import FileUpload from './components/fileupload';
 import VideoFileUpload from './components/videofileupload'
 import Divider from '@material-ui/core/Divider';
+import TimedData from './components/uploadedSensorData/TimedData';
 
 function App() {
   return (
